@@ -11,3 +11,6 @@ def capitalize_the_first(word):
     в верхний регистр
     """
     return word.title()
+
+
+"BAGS ARE FIXED"
